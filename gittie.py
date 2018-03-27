@@ -18,3 +18,10 @@ def joke(message):
     print(message)
 
 joke(my_joke)
+
+
+my_shout = 'AARRGH'
+def shout(m):
+    print(m)
+
+shout(my_shout)
