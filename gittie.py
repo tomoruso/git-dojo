@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 my_message = "Hello! I'm Gittie 2"
+=======
+my_message = "Hello! I'm Bela"
+>>>>>>> 2046a40debf522f1f2650986aa11af73de9b3143
 
 def introduce(messages):
     print(messages)
